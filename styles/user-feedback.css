@@ -15,7 +15,7 @@
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
-    background-color: #FFFFFF;
+    /* background-color: #FFFFFF; */
 }
 .user{
     border: 2px solid #F2EDED;
@@ -51,7 +51,7 @@
     margin-left: 24px;
     color: #1E1E1E;
     font-size: 16px;
-    font-weight: 16px;
+    font-weight: 400px;
 }
 .user-image img{
     margin-left: 24px;
@@ -60,9 +60,18 @@
     color: #757575;
     font-size: 16px;
     font-weight: bold;
+    margin-bottom: 0px;
 }
 .user-information2 .date{
     color: #B3B3B3;
     font-size: 16px;
     font-weight: 400px;
+}
+.user-information{
+    display: flex;
+    align-items: center;
+}
+.user-information2 p{
+    margin: 0px;
+    margin-left: 12px;
 }
