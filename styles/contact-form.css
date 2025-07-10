@@ -1,0 +1,48 @@
+div form{
+    margin-right: 150px;
+}
+.contact-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 115px;
+}
+div .contact-title{
+    font-size: 97px;
+    font-weight: bold;
+    color: #000000;
+    width: 1000px;
+    height: 0 auto;
+    margin: 0px;
+    margin-left: 150px;
+    /* margin-right: 115px; */
+    /* margin-top: 200px;
+    margin-bottom: 200px; */
+}
+form label{
+    font-size: 18px;
+    color: #000000;
+    font-weight: 500px;
+}
+.email, .name{
+    height: 60px;
+    width: 416.5px;
+}
+.contact-button{
+    width: 105%;
+    margin-bottom: 71px;
+}
+
+input[type="text"], 
+input[type="email"], 
+textarea {
+  color: #FFFFFF;
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 16px;
+  border: 1px solid #D6DDED;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: 400px;
+  color: rgb(0, 0, 0, 0.5);
+}
