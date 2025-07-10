@@ -1,0 +1,31 @@
+.banner{
+    background-color: rgb(250, 250, 250, 0.5);
+    text-align: center;
+    margin-top: 137px;
+    margin-left: 151px;
+    margin-right: 149px;
+}
+.banner-title{
+color: #000000;
+font-size: 50px;
+font-weight: bold;
+margin: 0px;
+padding-top: 71px;
+}
+.banner-description{
+    color: rgb(0, 0, 0, 0.5);
+    font-size: 16px;
+    font-weight: 400px;
+   margin: 0px;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+.banner-button{
+    margin-bottom: 20px;
+}
+.banner-img img{
+    width: 840px;
+    height: 364.77;
+    border-radius: 48px;
+    margin-bottom: 71px;
+}
